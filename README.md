@@ -66,7 +66,7 @@ Here formula used is different. Here we obtain probability values of a data poin
 
 Formula for loss function of logistic regression is tweaked to obtain formula for loss function if softmax regression.
 
-## Ploynomial Features in logistic regression - 
+## Polynomial Features in logistic regression - 
 If our data is not linearly classifiable, we can use polynomial logistic regression. Here also we transform the feature values according to degree of polynomial that we want to train. This increases the number of columns to be trained to number columns in dataset * degree of polynomial.
 
 ## Logistic regression - Hyperparameters
